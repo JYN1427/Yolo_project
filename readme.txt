@@ -1,0 +1,3 @@
+Pytorch： https://pytorch.org/get-started/previous-versions/
+
+Anaconda env：https://blog.csdn.net/weixin_42830697/article/details/102463594?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163791846116780261966727%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=163791846116780261966727&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-3-102463594.pc_search_result_cache&utm_term=%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83&spm=1018.2226.3001.4187
